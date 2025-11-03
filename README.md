@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://img.shields.io/badge/NeurIPS-2025-3C9EE7?style=for-the-badge&logo=neurips" alt="NeurIPS 2025](https://arxiv.org/abs/2509.21526)"/>
+  <img src="https://arxiv.org/abs/2509.21526"/>
   <img src="https://img.shields.io/badge/Semi--Supervised%20Learning-TRiCo-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Coming%20Soon-FFA500?style=for-the-badge&logo=github"/>
 </p>
