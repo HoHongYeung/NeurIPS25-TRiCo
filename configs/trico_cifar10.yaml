@@ -1,0 +1,11 @@
+dataset: CIFAR10
+encoder1: DINOv2
+encoder2: MAE
+epochs: 512
+K: 5
+epsilon: 1.0
+batch_size: 64
+lr_student: 0.03
+lr_teacher: 0.01
+feature_dim: 768
+num_classes: 10
